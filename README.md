@@ -1,2 +1,0 @@
-# Hijabstore.github.io
-template
